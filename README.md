@@ -88,11 +88,12 @@ momentum_lookback = 63      # Trading days in lookback period
 
 ### Visualizations
 - **Equity Curve**  
-  ![Equity Curve](https://equity_curve.png)
+  ![Equity Curve](notebooks/equity_curve.png)
 - **Drawdown Comparison**  
-  ![Drawdown Comparison](https://drawdown_comparison.png)
+  ![Drawdown Comparison](notebooks/drawdown_comparison.png)
 - **Monthly Returns Heatmap**  
-  ![Monthly Returns Heatmap](https://monthly_returns_heatmap.png)
+  ![Monthly Returns Heatmap](notebooks/monthly_returns_heatmap.png)
+
 
 ---
 
